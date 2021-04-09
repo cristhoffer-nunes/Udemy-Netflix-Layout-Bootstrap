@@ -18,5 +18,18 @@
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## Demonstratition
+## SM Layout
 
+![SM Layout](https://github.com/cristhoffer-nunes/Udemy-netflix-layout-bootstrap/blob/master/readme_images/SM.gif)
+
+## MD Layout
+
+![MD Layout](https://github.com/cristhoffer-nunes/Udemy-netflix-layout-bootstrap/blob/master/readme_images/MD.gif)
+
+## LG Layout
+
+![XL Layout](https://github.com/cristhoffer-nunes/Udemy-netflix-layout-bootstrap/blob/master/readme_images/LG_1.gif)
+
+## XL Layout
+
+![MD Layout](https://github.com/cristhoffer-nunes/Udemy-netflix-layout-bootstrap/blob/master/readme_images/XL_1.gif)
